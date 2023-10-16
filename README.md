@@ -28,7 +28,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 1. **Clone the repository:**
 
    ```shell
-    git clone https://github.com/your-username/real-estate-bidding-app.git
+    git clone https://github.com/EfremMic/Real_Estate_Bidding_App.git
 
 2. **Navigate to the project directory:**
    ```shell
